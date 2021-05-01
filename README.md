@@ -1,41 +1,14 @@
 # react-101
-React 101 class
 
-## Dependencies
+React 101 class.
 
-- git: https://github.com/git-guides/install-git
-- nodejs: https://nodejs.org/en/
-- visual studio code (vscode): https://code.visualstudio.com/
-- yarn: https://yarnpkg.com/lang/en/docs/install/
+## Index
 
-## Extensions For VSCODE
-  - GitLens: https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens
-  - ESLint: https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint
-  - SASS: https://marketplace.visualstudio.com/items?itemName=Syler.sass-indented
-  - Material Icons: https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme
-  - Better Comments: https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments
-  - Prettier: https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode
-
-## Configuration For VSCode (Optional)
-  ```
-{
-  "editor.suggestSelection": "first",
-  "workbench.iconTheme": "material-icon-theme",
-  "editor.defaultFormatter": "esbenp.prettier-vscode",
-  "editor.insertSpaces": false,
-  "editor.tabSize": 2,
-  "[sass]": {
-    "editor.defaultFormatter": "syler.sass-indented"
-  },
-  "explorer.confirmDragAndDrop": false,
-  "git.confirmSync": false,
-  "typescript.updateImportsOnFileMove.enabled": "always",
-  "code-runner.runInTerminal": true,
-  "javascript.updateImportsOnFileMove.enabled": "always",
-  "diffEditor.ignoreTrimWhitespace": false,
-  "editor.formatOnSave": true
-}
-  ```
+1. [Module 1 - Dependencies](https://github.com/xtealer/react-101/blob/main/lessons/module-1.md)
+2. [Module 2 - Create Project](https://github.com/xtealer/react-101/blob/main/lessons/module-2.md)
+3. [Module 3 - Build UI](https://github.com/xtealer/react-101/blob/main/lessons/module-3.md)
+4. [Module 4 - Build Logic](https://github.com/xtealer/react-101/blob/main/lessons/module-4.md)
+5. [Module 5 - Deploy](https://github.com/xtealer/react-101/blob/main/lessons/module-5.md)
   
   ## Topics
   
