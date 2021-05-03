@@ -8,6 +8,6 @@
 
 4. Setup firebase hosting for react, can refer to the following [tutorial](https://dzone.com/articles/react-apps-firebase)
 
-5.  Run `yarn build`
+5.    Run `yarn build && yarn deploy`
 
 [<<](https://github.com/xtealer/react-101/blob/main/lessons/module-4.md)
