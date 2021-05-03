@@ -1,4 +1,4 @@
-# Module 4
+# Module 4 - Build Logic
 
 1. Setup firebase project, refer to [documentation](https://firebase.google.com/docs/web/setup) for details.
 
