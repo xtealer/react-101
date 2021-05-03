@@ -6,7 +6,27 @@
 
 - Create `/src/styles/index.sass` file. Import on `index.tsx` with `import './styles/index.sass'`
 
-- Add add import on top of `index.sass` `@import 'antd/dist/antd.css'`
+- Add import `@import 'antd/dist/antd.css'` on top of `index.sass`
+
+- Create the following sass files stylesheets, import them on `index.sass`: `components`, `ids`, `utils`, `themes`, `tags`
+
+- Set initial style rules by file:
+
+  - `tags.sass`
+
+    ```
+    body, html
+    	height: 100%
+    ```
+  
+  - `tags.sass`
+
+    ```
+    #root
+    	height: 100%
+    ```
+    
+  These rules will allow us to work safely with percentages from parent container, instead of `vh`
 
 - Commit and upload changes to github
 
