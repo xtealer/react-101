@@ -9,5 +9,4 @@
 - Add add import on top of index.sass `@import 'antd/dist/antd.css'`
 
 
-[<<](https://github.com/xtealer/react-101/blob/main/lessons/module-1.md)
-[>>](https://github.com/xtealer/react-101/blob/main/lessons/module-3.md)
+[<<](https://github.com/xtealer/react-101/blob/main/lessons/module-1.md) --- [>>](https://github.com/xtealer/react-101/blob/main/lessons/module-3.md)
