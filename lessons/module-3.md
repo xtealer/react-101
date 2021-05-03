@@ -1,4 +1,4 @@
-# Module 3
+# Module 3 - Build UI
 
 1. Create the following `/src/views` files:
 
