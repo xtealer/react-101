@@ -44,3 +44,5 @@ This must be set after the installation of all extensions shown in the last sect
 "editor.formatOnSave": true
 }
 ```
+
+[Next Module](https://github.com/xtealer/react-101/blob/main/lessons/module-2.md)
