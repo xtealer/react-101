@@ -1,4 +1,4 @@
-# Module 2
+# Module 2 - Create Project
 
 - Create React project running on integrated terminal with `yarn create react-app app --template typescript`
 
