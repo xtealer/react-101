@@ -1,4 +1,4 @@
-# Module 1
+# Module 1 - Dependencies
 
 Here we will install some programs, set the initial configuration, and get ready our development enviroment.
 
