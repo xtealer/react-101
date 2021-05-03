@@ -27,6 +27,45 @@
     ```
     
   These rules will allow us to work safely with percentages from parent container, instead of `vh`
+  
+  - Remove clean contents of App.tsx, leave only this code:
+
+   ```
+   import React from "react";
+   
+   interface IProps {}
+
+   const App: FunctionComponent<IProps> = (props) => {
+     return (
+       <div>app.tsx</div>
+     );
+   };
+
+   export default App;
+   ```
+   
+   - Verify that `index.tsx` only contains utilized imports, should look something like this:
+
+   ```
+   import "./styles/index.sass";
+
+   import React from "react";
+   import ReactDOM from "react-dom";
+   import App from "./App";
+   import reportWebVitals from "./reportWebVitals";
+
+   ReactDOM.render(
+     <React.StrictMode>
+       <App />
+     </React.StrictMode>,
+     document.getElementById("root")
+   );
+
+   // If you want to start measuring performance in your app, pass a function
+   // to log results (for example: reportWebVitals(console.log))
+   // or send to an analytics endpoint. Learn more: https://bit.ly/CRA-vitals
+   reportWebVitals();
+   ```
 
 - Commit and upload changes to github
 
