@@ -1,3 +1,13 @@
 # Module 5
 
+1. Get a domain
+
+2. Link domain to cloudflare
+
+3. Create email server on and register `info@youraddress.com` [zoho.com](https://zoho.com/)
+
+4. Setup firebase hosting for react, can refer to the following [tutorial](https://dzone.com/articles/react-apps-firebase)
+
+5.  Run `yarn build`
+
 [<<](https://github.com/xtealer/react-101/blob/main/lessons/module-4.md)
