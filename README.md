@@ -2,6 +2,10 @@
 
 React 101 class.
 
+## Project Source
+
+1. react-cv: https://github.com/xtealer/react-cv
+
 ## Index
 
 1. [Module 1 - Dependencies](https://github.com/xtealer/react-101/blob/main/lessons/module-1.md)
